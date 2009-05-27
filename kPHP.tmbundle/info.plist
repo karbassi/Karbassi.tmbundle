@@ -18,7 +18,7 @@
 		<string>2CDD1B21-956E-11D9-B0A1-000D93382786</string>
 	</array>
 	<key>description</key>
-	<string>&lt;a href=&quot;http://www.php.net/&quot;&gt;PHP&lt;/a&gt; is a widely-used general-purpose scripting language that is especially suited for web development and can be embedded into HTML.</string>
+	<string>&lt;a href="http://www.php.net/"&gt;PHP&lt;/a&gt; is a widely-used general-purpose scripting language that is especially suited for web development and can be embedded into HTML.</string>
 	<key>mainMenu</key>
 	<dict>
 		<key>excludedItems</key>
@@ -231,6 +231,7 @@
 		<string>FE39640E-A69C-48DF-9282-633672AAEFD2</string>
 		<string>F7751DAF-AC95-4D47-955F-FE2534FDE4F5</string>
 		<string>0D955946-8CCF-11D9-B507-000D93C8BE28</string>
+		<string>D9056144-B9E2-4E22-A78C-06A944E5B8B5</string>
 		<string>978B5E5E-F5C6-4FD8-B346-B0C85883D600</string>
 		<string>7E7936B6-7334-455B-A5ED-D51CA49CF532</string>
 		<string>42F50AE3-4F1C-43EB-9722-D80261A19625</string>
