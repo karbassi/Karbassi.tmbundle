@@ -5,7 +5,7 @@
 	<key>content</key>
 	<string>console.info(${1:object});$0</string>
 	<key>keyEquivalent</key>
-	<string>@d</string>
+	<string>@D</string>
 	<key>name</key>
 	<string>info</string>
 	<key>scope</key>

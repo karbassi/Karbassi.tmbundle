@@ -24,7 +24,7 @@ APPLESCRIPT</string>
 	<key>input</key>
 	<string>none</string>
 	<key>keyEquivalent</key>
-	<string>@d</string>
+	<string>@D</string>
 	<key>name</key>
 	<string>Debug with Firebug</string>
 	<key>output</key>

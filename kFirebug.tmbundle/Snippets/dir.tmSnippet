@@ -5,7 +5,7 @@
 	<key>content</key>
 	<string>console.dir(${1:object});$0</string>
 	<key>keyEquivalent</key>
-	<string>@d</string>
+	<string>@D</string>
 	<key>name</key>
 	<string>dir</string>
 	<key>scope</key>

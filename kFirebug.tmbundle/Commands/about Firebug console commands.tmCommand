@@ -127,7 +127,7 @@ html_footer</string>
 	<key>input</key>
 	<string>none</string>
 	<key>keyEquivalent</key>
-	<string>@d</string>
+	<string>@D</string>
 	<key>name</key>
 	<string>about Firebug console commands</string>
 	<key>output</key>

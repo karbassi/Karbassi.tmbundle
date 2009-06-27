@@ -5,7 +5,7 @@
 	<key>content</key>
 	<string>console.assert(${1:expression});$0</string>
 	<key>keyEquivalent</key>
-	<string>@d</string>
+	<string>@D</string>
 	<key>name</key>
 	<string>assert</string>
 	<key>scope</key>
