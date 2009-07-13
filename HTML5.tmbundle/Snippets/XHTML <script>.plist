@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>&lt;footer&gt;$0&lt;/footer&gt;</string>
+	<string>&lt;script src="${1:source file}"&gt;&lt;/script&gt;$0</string>
 	<key>name</key>
-	<string>footer</string>
+	<string>Script</string>
 	<key>scope</key>
 	<string>text.html</string>
 	<key>tabTrigger</key>
-	<string>footer</string>
+	<string>script</string>
 	<key>uuid</key>
-	<string>2B899E01-9791-42CC-982B-3DE6EE2A5F7F</string>
+	<string>6592050A-A087-11D9-A5A2-000D93C8BE28</string>
 </dict>
 </plist>

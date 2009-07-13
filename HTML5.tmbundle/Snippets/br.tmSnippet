@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>&lt;footer&gt;$0&lt;/footer&gt;</string>
+	<string>&lt;br${TM_XHTML}&gt;</string>
+	<key>keyEquivalent</key>
+	<string>^</string>
 	<key>name</key>
-	<string>footer</string>
+	<string>br</string>
 	<key>scope</key>
 	<string>text.html</string>
-	<key>tabTrigger</key>
-	<string>footer</string>
 	<key>uuid</key>
-	<string>2B899E01-9791-42CC-982B-3DE6EE2A5F7F</string>
+	<string>3E008E42-A5C9-11D9-9BCD-000D93C8BE28</string>
 </dict>
 </plist>

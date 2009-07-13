@@ -3,14 +3,16 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>&lt;footer&gt;$0&lt;/footer&gt;</string>
+	<string>&lt;html${1: ${2:lang='${3:en-us}'}${4: xmlns='http://www.w3.org/1999/xhtml'}}&gt;
+$0
+&lt;/html&gt;</string>
 	<key>name</key>
-	<string>footer</string>
+	<string>html</string>
 	<key>scope</key>
 	<string>text.html</string>
 	<key>tabTrigger</key>
-	<string>footer</string>
+	<string>html</string>
 	<key>uuid</key>
-	<string>2B899E01-9791-42CC-982B-3DE6EE2A5F7F</string>
+	<string>4976AC4F-D5C2-413A-AA7F-BDB8ADD9986E</string>
 </dict>
 </plist>
