@@ -3,9 +3,11 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>&lt;section&gt;$0&lt;/section&gt;</string>
+	<string>&lt;section${1: class="${2:name}"}&gt;
+	${3:$TM_SELECTED_TEXT}
+&lt;/section&gt;</string>
 	<key>name</key>
-	<string>section</string>
+	<string>section class</string>
 	<key>scope</key>
 	<string>text.html</string>
 	<key>tabTrigger</key>
