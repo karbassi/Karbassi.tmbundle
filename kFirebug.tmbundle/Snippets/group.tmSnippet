@@ -13,7 +13,7 @@ ${2:console.groupEnd();}$0</string>
 	<key>scope</key>
 	<string>source.js</string>
 	<key>tabTrigger</key>
-	<string>con</string>
+	<string>c</string>
 	<key>uuid</key>
 	<string>EF0C7E99-9101-41EF-AD4D-766FD7DCF4FA</string>
 </dict>

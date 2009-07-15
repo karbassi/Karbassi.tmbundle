@@ -13,7 +13,7 @@ ${2:console.profileEnd();}$0</string>
 	<key>scope</key>
 	<string>source.js</string>
 	<key>tabTrigger</key>
-	<string>con</string>
+	<string>c</string>
 	<key>uuid</key>
 	<string>72E22CFA-3C1F-42E1-B550-283FBB9281A0</string>
 </dict>

@@ -11,7 +11,7 @@
 	<key>scope</key>
 	<string>source.js</string>
 	<key>tabTrigger</key>
-	<string>con</string>
+	<string>c</string>
 	<key>uuid</key>
 	<string>8D345D84-8A25-4725-8965-E6489B80D2EA</string>
 </dict>

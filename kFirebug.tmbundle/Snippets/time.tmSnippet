@@ -13,7 +13,7 @@ ${2:console.timeEnd(${1:object});}$0</string>
 	<key>scope</key>
 	<string>source.js</string>
 	<key>tabTrigger</key>
-	<string>con</string>
+	<string>c</string>
 	<key>uuid</key>
 	<string>BDB4F63D-1D05-4040-A448-BC7AD9C547DB</string>
 </dict>
