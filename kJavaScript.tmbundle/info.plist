@@ -11,7 +11,7 @@
 		<string>0FE55436-0C29-4545-A3BE-B858EF81E27B</string>
 	</array>
 	<key>description</key>
-	<string>Support for &lt;a href=&quot;http://developer.mozilla.org/en/docs/About_JavaScript&quot;&gt;JavaScript&lt;/a&gt;.</string>
+	<string>Support for &lt;a href="http://developer.mozilla.org/en/docs/About_JavaScript"&gt;JavaScript&lt;/a&gt;.</string>
 	<key>mainMenu</key>
 	<dict>
 		<key>items</key>
@@ -112,6 +112,7 @@
 		<string>F0E4FB6A-4878-48C6-A777-62438DF1E14F</string>
 		<string>2F96136B-0193-42F5-90FC-B6F456A3AD77</string>
 		<string>4C6EDB43-3E2E-411B-A016-13C135C59833</string>
+		<string>E898F15B-D1B9-4E3D-9E7B-7CCD5EA204EB</string>
 		<string>93E017CC-6F27-11D9-90EB-000D93589AF6</string>
 		<string>A67A8BD9-A951-406F-9175-018DD4B52FD1</string>
 		<string>BC062860-3346-4D3B-8421-C5543F83D11F</string>
