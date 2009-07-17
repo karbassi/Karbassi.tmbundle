@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>console.debug(${1:object});$0</string>
+	<string>console.debug(${1:$TM_SELECTED_TEXT});$0</string>
 	<key>keyEquivalent</key>
 	<string>@D</string>
 	<key>name</key>
