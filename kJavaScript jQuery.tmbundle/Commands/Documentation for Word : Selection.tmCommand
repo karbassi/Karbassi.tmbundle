@@ -41,7 +41,7 @@ puts `xsltproc "#{stylefile}" "#{xmlfile}"`
 	<key>output</key>
 	<string>showAsHTML</string>
 	<key>scope</key>
-	<string>source.js.jquery support.function.js.jquery</string>
+	<string>source.js support.function.js</string>
 	<key>uuid</key>
 	<string>690646D5-AC38-4EB9-8C41-776E4F55CB59</string>
 </dict>

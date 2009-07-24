@@ -14,7 +14,7 @@ $0
 	<key>name</key>
 	<string>$.post</string>
 	<key>scope</key>
-	<string>source.js.jquery</string>
+	<string>source.js</string>
 	<key>tabTrigger</key>
 	<string>$.post</string>
 	<key>uuid</key>
