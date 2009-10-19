@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beforeRunningCommand</key>
+	<string>nop</string>
+	<key>command</key>
+	<string>#!/bin/bash
+echo "&lt;time datetime='`date +%Y-%m-%dT%H:%M:%S`'&gt;`date +%Y-%m-%d`&lt;/time&gt;"</string>
+	<key>input</key>
+	<string>none</string>
+	<key>name</key>
+	<string>time (current)</string>
+	<key>output</key>
+	<string>insertAsSnippet</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>timenow</string>
+	<key>uuid</key>
+	<string>E75FA5C5-3F7D-4D61-B260-055E45EF3318</string>
+</dict>
+</plist>
